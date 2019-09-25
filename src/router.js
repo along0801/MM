@@ -10,6 +10,7 @@ export default new Router({
   routes: [
     {
       path: '/',
+<<<<<<< HEAD
       redirect: '/find'
     },
     {
@@ -38,6 +39,10 @@ export default new Router({
           component: () => import('@/components/Contents/Me.vue')
         }
       ]
+=======
+      name: 'home',
+      component: Home
+>>>>>>> f7ddb7ee3f4ad1633d5a593f9aba404d61dfebed
     },
     {
       path: '/about',
@@ -47,6 +52,9 @@ export default new Router({
       // which is lazy-loaded when the route is visited.
       component: () => import(/* webpackChunkName: "about" */ './views/About.vue')
     }
+<<<<<<< HEAD
 
+=======
+>>>>>>> f7ddb7ee3f4ad1633d5a593f9aba404d61dfebed
   ]
 })
