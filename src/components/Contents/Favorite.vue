@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <router-view></router-view>
+  <div class="favorite-container">
+    <h1>hello! It's favorite!</h1>
   </div>
 </template>
 

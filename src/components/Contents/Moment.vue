@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <router-view></router-view>
+  <div class="moment-container">
+    <h1>hello! It's moment!</h1>
   </div>
 </template>
 

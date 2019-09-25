@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <router-view></router-view>
+  <div class="find-container">
+    <h1>hello! It's find!</h1>
   </div>
 </template>
 

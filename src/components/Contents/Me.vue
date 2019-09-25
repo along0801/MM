@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <router-view></router-view>
+  <div class="me-container">
+    <h1>hello! It's me!</h1>
   </div>
 </template>
 
