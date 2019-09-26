@@ -1,5 +1,4 @@
 <template>
-<<<<<<< HEAD
   <div class="home-container">
     <!-- 顶部 Header 区域 -->
     <div class="header">
@@ -15,16 +14,10 @@
     <div class="footer">
       <HomeFooter></HomeFooter>
     </div>
-=======
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
->>>>>>> f7ddb7ee3f4ad1633d5a593f9aba404d61dfebed
   </div>
 </template>
 
 <script>
-<<<<<<< HEAD
 import HomeHeader from "@/components/Header/homeHeader.vue";
 import HomeFooter from "@/components/Footer/homeFooter.vue";
 
@@ -70,15 +63,3 @@ export default {
   }
 }
 </style>
-=======
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
-
-export default {
-  name: 'home',
-  components: {
-    HelloWorld
-  }
-}
-</script>
->>>>>>> f7ddb7ee3f4ad1633d5a593f9aba404d61dfebed

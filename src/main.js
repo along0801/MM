@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import Vue from 'vue';
 import App from './App.vue';
 import router from './router';
@@ -21,14 +20,6 @@ import '@/assets/muse-icon/material-icons.css';
 Vue.use(MuseUI);
 
 Vue.config.productionTip = false;
-=======
-import Vue from 'vue'
-import App from './App.vue'
-import router from './router'
-import store from './store'
-
-Vue.config.productionTip = false
->>>>>>> f7ddb7ee3f4ad1633d5a593f9aba404d61dfebed
 
 new Vue({
   router,

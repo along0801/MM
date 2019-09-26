@@ -8,7 +8,6 @@
     "lint": "vue-cli-service lint",
     "test:unit": "vue-cli-service test:unit"
   },
-<<<<<<< HEAD
   "eslintIgnore": [
     "./src/assets/MUI/js/mui.js"
   ],
@@ -21,13 +20,6 @@
     "vue-router": "^3.0.3",
     "vuex": "^3.0.1",
     "webpack": "^4.41.0"
-=======
-  "dependencies": {
-    "core-js": "^2.6.5",
-    "vue": "^2.6.10",
-    "vue-router": "^3.0.3",
-    "vuex": "^3.0.1"
->>>>>>> f7ddb7ee3f4ad1633d5a593f9aba404d61dfebed
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.11.0",
